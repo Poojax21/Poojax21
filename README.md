@@ -11,7 +11,6 @@ Currently learning and experimenting with **Python, ML, NLP, and real-world data
 ## 🚀 About Me
 
 - 🎓 B.Tech in **Artificial Intelligence & Data Science** – VIT Pune  
-- 🏆 **1st Prize – State Level Project Competition**
 - 🧠 Passionate about **AI, Machine Learning, and Data Analysis**
 - 🔍 Love solving problems using **Python & data**
 - 🌱 Currently exploring **LLMs, NLP & AI systems**
