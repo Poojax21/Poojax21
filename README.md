@@ -1,4 +1,4 @@
-# Hi 👋 I'm Pooja Wavdara  
+<img width="762" height="659" alt="image" src="https://github.com/user-attachments/assets/878d221f-ffda-4e59-ab63-b3229918ebd9" /># Hi 👋 I'm Pooja Wavdara  
 
 💡 **AI & Data Science Student | Builder in Progress**  
 📍 Pune, India  
@@ -79,7 +79,9 @@ Python-based tool for collecting and analyzing social media data.
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Poojax21&theme=tokyo-night&hide_border=true)
 
 ---
+## 📈 LeetCode
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/PoojaCodesX?theme=dark&font=DM%20Mono&ext=heatmap)
 
 ## 🌐 Connect With Me  
 
