@@ -1,5 +1,3 @@
-<img width="762" height="659" alt="image" src="https://github.com/user-attachments/assets/878d221f-ffda-4e59-ab63-b3229918ebd9" /># Hi 👋 I'm Pooja Wavdara  
-
 💡 **AI & Data Science Student | Builder in Progress**  
 📍 Pune, India  
 
